@@ -76,3 +76,7 @@
 - 當有新成員加入時，機器人會發送歡迎訊息給該成員。
 
 #
+
+![70318](https://github.com/user-attachments/assets/d5dc4cf8-c11e-43fe-9b56-131a37f5309f)
+
+![70319](https://github.com/user-attachments/assets/6ba7a308-5ceb-4333-9990-8715634b0a04)
